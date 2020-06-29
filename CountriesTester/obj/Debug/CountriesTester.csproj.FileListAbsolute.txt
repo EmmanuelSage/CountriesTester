@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\bin\Debug\CountriesTester.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\bin\Debug\CountriesTester.exe
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\bin\Debug\CountriesTester.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\obj\Debug\CountriesTester.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\obj\Debug\CountriesTester.exe
+c:\users\hp\documents\visual studio 2015\Projects\CountriesTester\CountriesTester\obj\Debug\CountriesTester.pdb
+E:\New folder\CasedProjects\CountriesTester\CountriesTester\bin\Debug\CountriesTester.exe.config
+E:\New folder\CasedProjects\CountriesTester\CountriesTester\obj\Debug\CountriesTester.exe
+E:\New folder\CasedProjects\CountriesTester\CountriesTester\obj\Debug\CountriesTester.pdb
